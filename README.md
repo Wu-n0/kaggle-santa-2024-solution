@@ -1,4 +1,4 @@
-# Santa 2024 - Word Unscrambling Challenge Solution
+# Santa 2024 - The Perplexity Permutation Puzzle
 
 ## Overview
 
@@ -147,7 +147,5 @@ The core solving logic follows this process:
 | 4 | 70.0 | 67.5 | 2.5 |
 | 5 | 31.0 | 28.5 | 2.5 |
 | **Total** | **248.6** | **246.8** | **1.8** |
-
-## Lessons Learned
 
 Different paragraphs required custom parameter tuning based on length and complexity. Longer paragraphs needed more iterations and higher initial temperatures. The temperature restart mechanism proved essential for escaping local optima, particularly for paragraphs 3-5. For paragraph 3, fixing the first word and optimizing the rest was more effective than treating all words equally.
