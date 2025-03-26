@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my solution for the Kaggle Santa 2024 competition. The challenge involved rearranging scrambled words in Christmas stories to minimize their perplexity score, essentially putting the words back in an order that makes the most sense.
+This repository contains my solution for the [Santa 2024 - The Perplexity Permutation Puzzle](https://www.kaggle.com/competitions/santa-2024) Kaggle Competition. The challenge involved rearranging scrambled words in Christmas stories to minimize their perplexity score, essentially putting the words back in an order that makes the most sense.
 
 All computations were performed on an NVIDIA RTX 4070 Super GPU, with each perplexity calculation taking approximately 1.15 seconds. This meant careful optimization of the approach was necessary to efficiently explore the solution space.
 
